@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>The Shelf</title>
+	<link rel = "icon" href = "images/shelf-logo.png" type = "image/x-icon">
+	
+	<link href="style.css" rel="stylesheet" type="text/css">
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,700;1,300&display=swap" rel="stylesheet">
+	<link href="https://fonts.cdnfonts.com/css/broadway" rel="stylesheet">
+	
+	<script src="https://unpkg.com/feather-icons"></script>
+	
+	<script>
+	fetch("media.json")
+	  .then(res => res.json())
+	  .then(data => {
+		const latest = data.slice(-5).reverse();
+		const container = document.getElementById("latest-reviews");
+
+		latest.forEach(item => {
+		  const card = document.createElement("div");
+		  card.classList.add("image-wrapper");
+		  card.innerHTML = `
+			<a href="review.html?id=${item.id}">
+			  <img src="${item.image}" alt="${item.title}">
+			  <div class="title">
+				${item.title}
+			  </div>
+			</a>
+		  `;
+		  container.appendChild(card);
+		});
+
+		feather.replace();
+	  })
+	  .catch(err => console.error("Error loading latest reviews:", err));
+	</script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	
+<div id="nav-placeholder"></div>
+
+	
+<div class="container">
+	<div class="page-title">
+		<h1>Latest Reviews</h1>
+	</div>
+	
+	<div id="latest-reviews" class="image-container"></div>
+					
+	<article>
+		<a href="https://ceweb2.uml.edu/marguerite_paglierani/bottoms.html">
+			<img src="images/bottoms.jpg" alt="Bottoms">
+			<div class="content">
+				<div class="title">BOTTOMS</div>
+				<div class="stars">
+					<i data-feather="star" class="rating"></i>
+				</div>
+			</div>
+		</a>
+	</article>
+
+</div>
+	
+<div class="container">
+	<div class="page-title">
+		<h1>Featured Blog Posts</h1>
+	</div>
+			
+	<div class="featured-post">
+		<a href="https://ceweb2.uml.edu/marguerite_paglierani/blog/1.html">
+			<img src="images/FNAF.jpg" alt="Friday Nights at Freddy's Poster">
+	  	</a>
+		
+		<div class="post-content">
+			<div class="post-title">
+				<a href="https://ceweb2.uml.edu/marguerite_paglierani/blog/1.html">
+					New Releases: Must-See Movies Coming Out in October (2023)</a>
+			</div>
+
+			<div class="post-text">
+				<p>As the leaves change and the weather cools down, there's no better way to embrace the autumn season than with a trip to the movie theater. October is jam-packed with a diverse array of film releases, promising something for every cinephile. From spine-tingling horrors to heartwarming dramas and everything in between, here's a sneak peek at some of the must-see movies hitting the big screen this October.</p>
+				<br>
+				<a href="https://ceweb2.uml.edu/marguerite_paglierani/blog/1.html"><strong>Read on!</strong></a>
+			</div>
+		</div>
+	</div>
+</div>
+	
+</div>
+
+<div id="footer-placeholder"></div>
+<script src="script.js"></script>
+	
+<script>
+	const menuToggle = document.querySelector(".menu-toggle");
+  	const mobileLinks = document.querySelector(".mobile-links");
+
+  	menuToggle.addEventListener("click", () => {
+    	mobileLinks.classList.toggle("show-links");
+  	});
+</script>
+
+</body>
+</html>

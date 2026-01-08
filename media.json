@@ -1,0 +1,549 @@
+[
+  {
+    "id": "house-md",
+    "title": "House MD",
+    "subtitle": "by Fox",
+    "image": "images/house-md.jpg",
+    "rating": 5,
+    "metadata": {
+      "Creator": "David Shore",
+      "Genre": "Drama \u2022 Mystery",
+      "IMDB": "4.35/5",
+      "Rotten Tomatoes": "3.75/5"
+    },
+    "externalLinks": [],
+    "reviewHeadline": "An Unconventional but Brilliant Medical Drama",
+    "reviewBody": [
+      "The series follows Dr. House, a diagnostic genius with a sharp mind and a knack for solving complex medical mysteries. What sets \"House\" apart is its unique approach to storytelling, combining medical cases with character-driven narratives. Hugh Laurie's performance is a standout, bringing to life the complex and often abrasive character of Dr. House. The show explores House's brilliance, as well as his flaws and personal struggles, making him a compelling and memorable lead.",
+      "The medical cases, often unusual and perplexing, provide a fascinating backdrop for the series. The diagnostic process becomes a thrilling puzzle, and the show delves into the ethical dilemmas faced by the medical team.",
+      "House MD successfully balances drama with humor, injecting wit and sarcasm into the dialogue. The dynamic among the supporting characters, particularly House's team of doctors, adds depth and variety to the storytelling. One of the show's strengths is its willingness to tackle difficult and ethical medical issues, raising thought-provoking questions about the practice of medicine. The series also addresses House's chronic pain and addiction, adding layers to the character and breaking away from the typical medical drama formula."
+    ]
+  },
+  {
+    "id": "lost",
+    "title": "Lost",
+    "subtitle": "by ABC Studios",
+    "image": "images/lost.jpg",
+    "rating": 5,
+    "metadata": {
+      "Creators": "Jeffrey Lieber \u2022 J.J. Abrams \u2022 Damon Lindelof",
+      "Genre": "Adventure \u2022 Supernatural \u2022 Thriller",
+      "IMDB": "4.15/5",
+      "Rotten Tomatoes": "4.3/5"
+    },
+    "externalLinks": [],
+    "reviewHeadline": "A Mesmerizing Journey that Redfined Television",
+    "reviewBody": [
+      "Lost , the groundbreaking television series created by J.J. Abrams, Damon Lindelof, and Jeffrey Lieber, stands as a landmark in the medium. A masterclass in storytelling, character development, and intricate plot weaving, Lost remains a cultural phenomenon that has left a mark on television history.",
+      "Lost's narrative structure, intertwining present-day events with character flashbacks, flash-forwards, and even flashes-sideways, was groundbreaking and added layers of intrigue to an already rich storyline. The intricate plot kept audiences on the edge of their seats, prompting passionate discussions and fan theories that continue to resonate long after the series concluded.",
+      "Visually, Lost was a spectacle, with lush tropical landscapes, intricate sets, and stunning cinematography that enhanced the sense of isolation and wonder. The iconic musical score by Michael Giacchino heightened the emotional impact of key moments, solidifying the show's status as a true audiovisual marvel."
+    ]
+  },
+  {
+    "id": "talk-to-me",
+    "title": "Talk to Me",
+    "subtitle": "Directed by Danny & Michael Philippou",
+    "image": "images/talk-to-me.jpg",
+    "rating": 5,
+    "metadata": {
+      "Writers": "Danny Philippou \u2022 Bill Hinzman \u2022 Daley Pearson",
+      "Genre": "Horror \u2022 Thriller",
+      "IMDB": "3.55/5",
+      "Rotten Tomatoes": "4.7/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": "https://letterboxd.com/film/talk-to-me-2022/"
+      }
+    ],
+    "reviewHeadline": "A Gripping Directorial Debut",
+    "reviewBody": [
+      "Talk to Me is an unnerving exploration of the supernatural that takes audiences on a twisted journey through the consequences of communication with the dead. The film begins with a shocking incident at a house party, setting the stage for a series of dark and supernatural events that unfold in unexpected ways.",
+      "The narrative centers around Mia, portrayed by a compelling lead, as she grapples with the trauma of her mother's suicide and becomes entangled in a chilling ritual involving a severed and embalmed hand. The film cleverly builds tension, keeping viewers on the edge of their seats as Mia and her friends delve deeper into the paranormal.",
+      "The cinematography effectively captures the eerie atmosphere, enhancing the film's overall sense of dread. The portrayal of possession is particularly chilling, with standout performances that convey the characters' struggles as they grapple with malevolent spirits."
+    ]
+  },
+  {
+    "id": "lord-of-the-flies",
+    "title": "Lord of the Flies",
+    "subtitle": "Written by William Golding",
+    "image": "images/lord-of-the-flies.jpg",
+    "rating": 5,
+    "metadata": {
+      "Genre": "Classics \u2022 Allegorical \u2022 Youn Adult",
+      "Goodreads": "3.7/5",
+      "Barnes & Noble": "3.8/5"
+    },
+    "externalLinks": [
+      {
+        "label": "GOODREADS REVIEW",
+        "url": "https://www.goodreads.com/review/show/5518970489"
+      }
+    ],
+    "reviewHeadline": "A Riveting Exploration of Human Nature",
+    "reviewBody": [
+      "\"Lord of the Flies\" by William Golding is an enduring literary classic that deserves all the accolades it has received over the years. This compelling tale of human nature and societal breakdown on a deserted island is nothing short of a literary masterpiece.",
+      "Golding's immerses readers in the harrowing journey of a group of boys stranded without adult supervision. His skillful storytelling captivates from the first page, creating an atmosphere of suspense and tension that persists until the final haunting moments.",
+      "What sets \"Lord of the Flies\" apart is its profound exploration of the human psyche. The characters serve as archetypes, reflecting the complex interplay of innocence and savagery inherent in all of us. The novel's power lies in its ability to provoke introspection, challenging readers to confront uncomfortable truths about human nature."
+    ]
+  },
+  {
+    "id": "fnaf",
+    "title": "Five Nights at Freddy's",
+    "subtitle": "Directed by Emma Tammi",
+    "image": "images/fnaf.jpg",
+    "rating": 5,
+    "metadata": {
+      "Writers": "Scott Cawthorn \u2022 Seth Cuddeback \u2022 Emma Tammi",
+      "Genre": "Horror \u2022 Mystery \u2022 Thriller",
+      "IMDB": "2.75/5",
+      "Rotten Tomatoes": "1.55/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": "https://letterboxd.com/margurrrite/film/five-nights-at-freddys/"
+      }
+    ],
+    "reviewHeadline": "A Not-so Scary Movie with Deeprooted Lore",
+    "reviewBody": [
+      "At Freddy Fazbear' Pizzeria, the animatronics come to life after dark, and what happens when one sleep deprived security guard falls alseep on the job? From caring for his sister and holding fircely onto memories of the past, Mike takes a new job at a shut down Pizzeria, simply instructed not to let vandals in and do not fall asleep.",
+      "The game Five Nights at Freddy's boasts much scarier animatronics in comparison to the movie. These animatronics are painted in a different light, especially once finding out thaty the souls of murdfered children inhabit these beings. They are are shown building a fort and even tickling Mike's younger sister when she comes to stay with him. These difference's have made some fans angry because they go against a game with such a long history and predetermined lore."
+    ]
+  },
+  {
+    "id": "the-last-of-us",
+    "title": "The Last of Us",
+    "subtitle": "by HBO",
+    "image": "images/last-of-us.jpg",
+    "rating": 4,
+    "metadata": {
+      "Creators": "Neil Druckmann \u2022 Craig Mazin",
+      "Genre": "Action \u2022 Adventure \u2022 Drama",
+      "IMDB": "4.4/5",
+      "Rotten Tomatoes": "4.8/5"
+    },
+    "externalLinks": [],
+    "reviewHeadline": "A Gripping Adaptation of the Beloved Game Universe",
+    "reviewBody": [
+      "The Last of Us, a highly anticipated TV show adaptation of the beloved game, succeeds in capturing the essence of the original universe while delivering a gripping narrative. With its faithfulness to the source material, the series manages to appease fans who hold the game in high regard.",
+      "One of the show's greatest strengths lies in its commitment to remaining truthful to the original game universe. From the hauntingly atmospheric post-apocalyptic world to the nuanced character portrayals, the TV adaptation beautifully translates the essence of the game onto the screen. It immerses viewers in the same harrowing journey, capturing the emotional weight and moral complexities that made the game so memorable.",
+      "Furthermore, the production values and attention to detail in The Last of Us are impeccable. The post-apocalyptic setting is visually stunning, capturing the desolate beauty and the oppressive atmosphere that defines the game. The cinematography and visual effects enhance the storytelling, creating a seamless transition from game to screen.",
+      "In conclusion, The Last of Us TV show earns a solid four-star rating as a faithful and captivating adaptation of the original game universe. By remaining true to the core elements that fans hold dear while offering new dimensions to the narrative, the series strikes a delicate balance. The performances, production values, and attention to detail contribute to a thrilling and immersive viewing experience, appealing to both longtime fans and newcomers alike."
+    ]
+  },
+  {
+    "id": "whiplash",
+    "title": "Whiplash",
+    "subtitle": "Directed by Damien Chazelle",
+    "image": "images/whiplash.jpg",
+    "rating": 0,
+    "metadata": {
+      "Writer": "Damien Chazelle",
+      "Genre": "Drama \u2022 Music",
+      "IMDB": "4.25/5",
+      "Rotten Tomatoes": "4.7/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": "https://letterboxd.com/margurrrite/film/whiplash-2014/1/"
+      }
+    ],
+    "reviewHeadline": "A Drumming Tempest that Echoes with the Pulse of Ambition",
+    "reviewBody": [
+      "Whiplash is a relentless cinematic drumbeat of intensity. Damien Chazelle's riveting masterpiece takes audiences on a gripping journey into the cutthroat world of music education, where the pursuit of greatness becomes an electrifying battle of wills.",
+      "Miles Teller's powerhouse performance as Andrew Neiman is nothing short of mesmerizing. His portrayal of a young drummer's unwavering determination and sacrifice is a tour de force, matched beat for beat by J.K. Simmons, who delivers an Oscar-winning performance as the tyrannical and brilliant music instructor, Terence Fletcher.",
+      "The film's pacing is a display of tension and release, mirroring the rhythm of the drumming that serves as its beating heart. The tight editing and dynamic camera work create a visceral experience, pulling the audience into the relentless pursuit of perfection that defines the world of jazz and ambition.",
+      "Whiplash is more than a music film; it's a psychological thriller that explores the high cost of artistic greatness. The script is a symphony of sharp dialogue and emotional crescendos, leaving an impact long after the credits roll."
+    ]
+  },
+  {
+    "id": "beetlejuice",
+    "title": "Beetlejuice",
+    "subtitle": "Directed by Tim Burton",
+    "image": "images/beetlejuice.jpg",
+    "rating": 5,
+    "metadata": {
+      "Writers": "Michael McDowell \u2022 Larry Wilson \u2022 Warren Skaaren",
+      "Genre": "Comedy \u2022 Fantasy",
+      "IMDB": "3.75/5",
+      "Rotten Tomatoes": "4.3/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": "https://letterboxd.com/margurrrite/film/beetlejuice/"
+      }
+    ],
+    "reviewHeadline": "Where the afterlife is a bureaucratic nightmare, the living are eccentric, and the undead have more fun",
+    "reviewBody": [
+      "Beetlejuice is an absolute cinematic gem, earning every bit of its 5 out of 5 stars. Tim Burton's creativity shines through this darkly whimsical masterpiece. The film's unique blend of supernatural comedy and gothic charm creates an immersive and unforgettable experience.",
+      "Michael Keaton's performance as the mischievous bio-exorcist is nothing short of iconic. His manic energy and charisma make Beetlejuice a character for the ages. The supporting cast, including Alec Baldwin, Geena Davis, and Winona Ryder, deliver equally memorable performances, each contributing to the film's quirky tapestry.",
+      "Burton's visual style is a feast for the eyes, with every frame brimming with macabre beauty and clever practical effects. The design of the afterlife bureaucracy, the surreal landscapes of the Netherworld, and the ghastly charm of Beetlejuice himself showcase Burton's ability to create a world that is both eerie and enchanting.",
+      "Beetlejuice's appeal lies in its ability to balance humor, heart, and a touch of the macabre. It's a film that resonates across generations, captivating audiences with its wit, visual splendor, and memorable characters. Whether you're a fan of the supernatural or just appreciate a good laugh, Beetlejuice is a cinematic triumph that deserves its status as a classic. Five stars because in the realm of the peculiar and the paranormal, Beetlejuice reigns supreme."
+    ]
+  },
+  {
+    "id": "yellowjackets",
+    "title": "Yellowjackets",
+    "subtitle": "by Showtime",
+    "image": "images/yellowjackets.jpg",
+    "rating": 5,
+    "metadata": {
+      "Creators": "Ashley Lyle \u2022 Bart Nickerson",
+      "Genre": "Drama \u2022 Horror \u2022 Mystery",
+      "IMDB": "3.9/5",
+      "Rotten Tomatoes": "4.85/5"
+    },
+    "externalLinks": [],
+    "reviewHeadline": "A Tale of Survival and Secrets",
+    "reviewBody": [
+      "Yellowjackets emerges as a spellbinding thriller that seamlessly weaves between timelines, unraveling a complex narrative that leaves viewers both captivated and on the edge of their seats. The show is a remarkable blend of survival drama and mystery.",
+      "The show delves into a group of high school soccer players whose plane crashes in the wilderness, setting the stage for a riveting tale of survival. The dual timelines, expertly navigated, reveal the long-reaching consequences of their harrowing experience, creating a suspenseful narrative that keeps audiences hooked.",
+      "Yellowjackets intricately explores character development, presenting flawed and nuanced individuals whose layers are peeled back with each episode. The show delves into the psychological toll of survival, exploring themes of trauma, guilt, and the haunting impact of the past on the present"
+    ]
+  },
+  {
+    "id": "spirited-away",
+    "title": "Spirited Away",
+    "subtitle": "Directed by Hayao Miyazaki",
+    "image": "images/spirited-away.jpg",
+    "rating": 0,
+    "metadata": {
+      "Writer": "Hayao Miyazaki",
+      "Genre": "Animation \u2022 Adventure \u2022 Family",
+      "IMDB": "4.3/5",
+      "Rotten Tomatoes": "4.8/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": ""
+      }
+    ],
+    "reviewHeadline": "A Cinematic Enchantment that Defies Gravity and Imagination",
+    "reviewBody": [
+      "Spirited Away is a transcendent masterpiece that effortlessly earns its place among the stars. Hayao Miyazaki's animated opus is a breathtaking journey into a world of enchantment and wonder, where imagination knows no bounds.",
+      "Visually stunning doesn't even begin to describe the spellbinding animation that brings this fantastical realm to life. Miyazaki's attention to detail and artistic finesse create a mesmerizing tapestry of vibrant landscapes, ethereal creatures, and moments of sheer cinematic magic.",
+      "At the heart of Spirited Away is a coming-of-age tale that resonates with both children and adults. Chihiro's transformation from a timid girl to a brave, resourceful heroine mirrors the film's own evolution from a simple narrative to a complex exploration of identity, courage, and the spirit of adventure.",
+      "Joe Hisaishi's hauntingly beautiful score is the soulful companion to this visual feast, elevating the emotional impact of every scene. The music becomes a character in itself, seamlessly guiding the audience through the highs and lows of Chihiro's extraordinary odyssey.",
+      "Spirited Away is not merely a movie; it's an immersive experience that transcends cultural boundaries. Its universal themes of resilience, friendship, and the triumph of the human spirit resonate on a profound level, making it a timeless gem in the world of animation."
+    ]
+  },
+  {
+    "id": "the-great",
+    "title": "The Great",
+    "subtitle": "by Hulu",
+    "image": "images/great.jpg",
+    "rating": 5,
+    "metadata": {
+      "Creator": "Tony McNamara",
+      "Genre": "Biography \u2022 Comedy \u2022 Drama",
+      "IMDB": "4.1/5",
+      "Rotten Tomatoes": "4.8/5"
+    },
+    "externalLinks": [],
+    "reviewHeadline": "A Hilarious Triumph of Historical Satire",
+    "reviewBody": [
+      "The Great emerges as a delightful and irreverent gem in the realm of historical satire. This Hulu original, led by the dynamic performances of Elle Fanning and Nicholas Hoult, takes viewers on a wildly entertaining journey through the eccentric and scandalous court of Catherine the Great.",
+      "Elle Fanning's portrayal of Catherine is a revelation\u2014her comedic timing and charismatic presence breathe fresh life into this historical figure, transforming her into a thoroughly modern and relatable heroine. Opposite her, Nicholas Hoult's Peter III is a scene-stealing tour de force, delivering laughs and occasional menace with equal brilliance.",
+      "The writing is sharp and witty, with a keen sense of satire that skewers the conventions of period dramas. The dialogue crackles with energy, and the narrative twists and turns keep audiences guessing and laughing in equal measure. The show's ability to balance comedy with moments of genuine emotion is a testament to its narrative prowess."
+    ]
+  },
+  {
+    "id": "interstellar",
+    "title": "Interstellar",
+    "subtitle": "Directed by Christopher Nolan",
+    "image": "images/interstellar.jpg",
+    "rating": 5,
+    "metadata": {
+      "Writers": "Christopher Nolan \u2022 Jonathan Nolan",
+      "Genre": "Adventure \u2022 Drama \u2022 Sci-Fi",
+      "IMDB": "4.35/5",
+      "Rotten Tomatoes": "3.65/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": ""
+      }
+    ],
+    "reviewHeadline": "A Cosmic Odyssey that Defies Time, Space, and Expectations",
+    "reviewBody": [
+      "Christopher Nolan's visionary storytelling, combined with Hans Zimmer's evocative score, creates an immersive experience that transcends the boundaries of space and time. The film boasts a stellar ensemble cast, led by Matthew McConaughey's emotionally charged performance. McConaughey's portrayal of Cooper, a pilot turned astronaut, anchors the film with a perfect balance of vulnerability and determination. Anne Hathaway, Jessica Chastain, and Michael Caine deliver equally compelling performances, adding depth to the film's exploration of human relationships and the consequences of time dilation.",
+      "Interstellar's visual effects are nothing short of breathtaking. From the desolate landscapes of alien planets to the awe-inspiring scenes of a rotating black hole, the film's visuals are a testament to Nolan's commitment to practical effects and pushing the boundaries of what is possible in filmmaking.",
+      "In the vast landscape of science fiction films, Interstellar stands as a beacon of excellence. It not only entertains but also provokes thought and leaves a lasting impact. From its gripping narrative to its awe-inspiring visuals, Interstellar is a cinematic journey that deserves every bit of its 5-star rating. A must-watch for anyone seeking a transcendent and unforgettable experience at the movies."
+    ]
+  },
+  {
+    "id": "prometheus",
+    "title": "Prometheus",
+    "subtitle": "Directed by Ridley Scott",
+    "image": "images/prometheus.jpg",
+    "rating": 5,
+    "metadata": {
+      "Writers": "Jon Spaihts \u2022 Damon Lindelof \u2022 Dan O'Bannon",
+      "Genre": "Adventure \u2022 Mystery \u2022 Sci-Fi",
+      "IMDB": "3.5/5",
+      "Rotten Tomatoes": "3.65/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": ""
+      }
+    ],
+    "reviewHeadline": "A Celestial Masterpiece that Explores the Cosmos of Human Existence",
+    "reviewBody": [
+      "Ridley Scott's return to the Alien universe is a visually stunning and intellectually provocative journey, blending breathtaking aesthetics with a narrative that delves into the existential questions of human existence.",
+      "Visually, Prometheus is a triumph. From the hauntingly beautiful landscapes to the meticulously crafted set designs, every frame is a testament to Scott's mastery of cinematic art. The seamless integration of practical and digital effects creates an otherworldly atmosphere that captivates the audience from start to finish.",
+      "The narrative, while exploring themes of creation and the quest for knowledge, keeps viewers on the edge of their seats with a perfect blend of suspense and philosophical depth. Prometheus is a thought-provoking puzzle that challenges the mind while delivering visceral thrills."
+    ]
+  },
+  {
+    "id": "super-mario",
+    "title": "The Super Mario Bros. Movie",
+    "subtitle": "Directed by Aaron Horvath, Michael Jelenic",
+    "image": "images/super-mario-bros.jpg",
+    "rating": 3,
+    "metadata": {
+      "Writer": "Matthew Fogel",
+      "Genre": "Animation \u2022 Adventure \u2022 Comedy",
+      "IMDB": "3.55/5",
+      "Rotten Tomatoes": "2.95/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": "https://letterboxd.com/margurrrite/film/the-super-mario-bros-movie/"
+      }
+    ],
+    "reviewHeadline": "Nostalgic Disappointment with a Stellar Soundtrack",
+    "reviewBody": [
+      "The Super Mario Bros. Movie falls short of satisfying older audiences seeking a faithful adaptation and nostalgia. While the soundtrack excels with its energetic and nostalgic tunes, capturing the essence of the Mario universe, the overall execution disappoints. The film's kiddish approach feels at odds with the expectations of older fans, leaving them longing for more depth and fidelity to the beloved video game franchise.",
+      "The movie's casting choices and performances make valiant attempts, but fail to fully capture the essence of the beloved Mario characters. The script limits the potential for meaningful growth, and the absence of the charismatic charm and witty banter from the video game counterparts is felt throughout. Furthermore, the visuals, while attempting to bring the vibrant Mushroom Kingdom to life, fall short in achieving the visual splendor fans had hoped for. Set designs and special effects often feel disjointed, diminishing the immersion and fantasy that the Mario franchise is known for.",
+      "Despite its flaws, The Super Mario Bros. Movie captures some of the whimsical elements that made the video game series memorable. Younger viewers, who are less critical and more receptive to the film's playful tone, may find joy in its colorful world and lighthearted humor. However, older audiences seeking a more nuanced and faithful adaptation will likely feel disconnected from the overly simplified plot and character development.",
+      "In conclusion, while The Super Mario Bros. Movie boasts a stellar soundtrack that pays homage to the franchise, it disappoints older fans in its execution. The film's kiddish approach and lack of depth hinder its ability to resonate with nostalgic viewers. However, younger audiences may still find enjoyment in its whimsical world and light-hearted humor."
+    ]
+  },
+  {
+    "id": "the-merciful-crow",
+    "title": "The Merciful Crow",
+    "subtitle": "Written by Margaret Owen",
+    "image": "images/merciful-crow.jpg",
+    "rating": 5,
+    "metadata": {
+      "Genre": "Fantasy \u2022 Young Adult \u2022 Romance",
+      "Goodreads": "3.9/5",
+      "Barnes & Noble": "4.4/5"
+    },
+    "externalLinks": [
+      {
+        "label": "GOODREADS REVIEW",
+        "url": ""
+      }
+    ],
+    "reviewHeadline": "A Spellbinding Debut",
+    "reviewBody": [
+      "\"The Merciful Crow\" by Margaret Owen is an exhilarating fantasy that soars above the rest. Owen's debut novel is a thrilling journey through a world of magic, political intrigue, and a heroine's fight against injustice.",
+      "From the opening pages, Owen's narrative grabs hold and doesn't let go. The world-building is spectacular, immersing readers in a richly crafted universe where the caste system is as perilous as the magical threats that loom. The attention to detail in constructing this intricate realm demonstrates Owen's mastery of storytelling.",
+      "\"The Merciful Crow\" stands out for its refreshing take on fantasy tropes. Owen injects new life into the genre with a narrative that combines fast-paced action with thought-provoking themes of power, prejudice, and resilience. The magical system, centered around the unique abilities of each caste, adds an extra layer of intrigue to the unfolding tale."
+    ]
+  },
+  {
+    "id": "her-body-and-other-parties",
+    "title": "Her Body and Other Parties",
+    "subtitle": "Written by Carmen Maria Machado",
+    "image": "images/hbaop.jpg",
+    "rating": 5,
+    "metadata": {
+      "Genre": "Short Story \u2022 Sci-Fi \u2022 Psychological",
+      "Goodreads": "3.8/5",
+      "Barnes & Noble": "4.45/5"
+    },
+    "externalLinks": [
+      {
+        "label": "GOODREADS REVIEW",
+        "url": ""
+      }
+    ],
+    "reviewHeadline": "A Literary Dreamscape Where the Fantastical Meets the Visceral",
+    "reviewBody": [
+      "Carmen Maria Machado's collection of short stories is a mesmerizing journey through the surreal and the sublime, where the boundaries between reality and fantasy blur into a haunting tapestry of narrative brilliance.",
+      "Machado's prose is a revelation, a literary ballet that dances gracefully between genres. From the speculative to the macabre, each story is a testament to her narrative dexterity, leaving readers spellbound and eager for the next unexpected twist.",
+      "The thematic richness of \"Her Body and Other Parties\" is staggering. Machado fearlessly tackles issues of identity, desire, and the female experience with an unapologetic and razor-sharp pen. Her exploration of the complexities of the body, both physical and metaphysical, is both profound and beautifully disquieting.",
+      "This collection is more than a book; it's a literary kaleidoscope that reflects the diversity and complexity of the human experience. Machado's narratives are a mirror held up to society, reflecting its beauty and its darkness in equal measure."
+    ]
+  },
+  {
+    "id": "darkening",
+    "title": "The Darkening",
+    "subtitle": "Written by Sunya Mara",
+    "image": "images/darkening.jpg",
+    "rating": 5,
+    "metadata": {
+      "Genre": "Fantasy \u2022 Young Adult \u2022 Romance",
+      "Goodreads": "3.6/5",
+      "Barnes & Noble": "4.2/5"
+    },
+    "externalLinks": [
+      {
+        "label": "GOODREADS REVIEW",
+        "url": "https://www.goodreads.com/review/show/5586979604"
+      }
+    ],
+    "reviewHeadline": "A Richly Woven World Full of Magic curses, Political Intrigue and Morally Gray Characters",
+    "reviewBody": [
+      "The Darkening is set in an atmospheric world where a cursed city\u2019s only hope lies with the daughter of failed revolutionaries and a Prince who fears the very throne he\u2019ll inherit. Prince Dalca was born for one purpose: to protect his home from the deadly storm that surrounds his city and curses everyone it touches. Vesper Vale is the daughter of failed revolutionaries. Since the Queen sentenced her mother to death by the storm, she and her father have been on the run.",
+      "When the queen\u2019s soldiers, led by Prince Dalca, catch up to them, Vesper will do whatever it takes to protect her father from sharing her mother\u2019s fate. Even if it means arming herself with her father\u2019s book of experimental magic, infiltrating the prince\u2019s elite army of soldier-sorcerers or cheat her way into his cold heart."
+    ]
+  },
+  {
+    "id": "bottoms",
+    "title": "Bottoms",
+    "subtitle": "Directed by Emma Seligman",
+    "image": "images/bottoms.jpg",
+    "rating": 5,
+    "metadata": {
+      "Writers": "Emma Seligman \u2022 Rachel Sennott",
+      "Genre": "Comedy",
+      "IMDB": "3.45/5",
+      "Rotten Tomatoes": "4.5/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": "https://letterboxd.com/margurrrite/film/bottoms/"
+      }
+    ],
+    "reviewHeadline": "High school, cheerleaders, and a not-so-secret 'self-defense club'",
+    "reviewBody": [
+      "Bottoms\" (2023) struts onto the scene with all the subtlety of a bedazzled sledgehammer, and it's a wild ride through the high school landscape. Directed by Emma Seligman and starring Rachel Sennott and Ayo Edebiri, the film blends satirical comedy, teenage angst, and an unexpected fight club that's more about scoring dates than blows. It's a raucous mix of cheerleaders, chaos, and, of course, fashion faux pas.",
+      "PJ and Josie, played by Sennott and Edebiri, are the unapologetically awkward duo on a mission to score with the popular cheerleaders. Their plan? Create a feminist \"self-defense club,\" but behind it all, there's a desire for something a bit steamier. When they accidentally bump the school quarterback with their car, rumors fly, and the chaos begins. With a lineup of quirky characters and wild twists, \"Bottoms\" takes the typical high school comedy and adds a dash of glitter, a sprinkle of rebellion, and a whole lot of pineapple juice."
+    ]
+  },
+  {
+    "id": "the-song-of-achilles",
+    "title": "The Song of Achilles",
+    "subtitle": "Written by Madeline Miller",
+    "image": "images/song-of-achilles.jpg",
+    "rating": 0,
+    "metadata": {
+      "Genre": "Fantasy \u2022 Historical Fiction \u2022 Romance",
+      "Goodreads": "4.3/5",
+      "Barnes & Noble": "4.2/5"
+    },
+    "externalLinks": [
+      {
+        "label": "GOODREADS REVIEW",
+        "url": "https://www.goodreads.com/review/show/5352113353"
+      }
+    ],
+    "reviewHeadline": "A Lrical Symphony of Love and War that Transcends Time",
+    "reviewBody": [
+      "Madeline Miller's reimagining of the timeless Greek epic is a breathtaking odyssey that seamlessly blends the classical with the contemporary, crafting a narrative that is both achingly beautiful and profoundly resonant.",
+      "Miller's writing is lyrical, evocative, and steeped in the poetic traditions of ancient storytelling. She effortlessly transports readers to the world of gods and mortals, infusing each page with the vibrant energy of her narrative.",
+      "At the heart of this retelling is the tender and powerful love story between Achilles and Patroclus. Miller's portrayal of their relationship is a masterclass in character development and emotional nuance, transcending the bounds of time and mythology to create a love story that feels both epic and intimately human.",
+      "\"The Song of Achilles\" is a reclamation of voices silenced by centuries of storytelling. Miller breathes new life into characters like Patroclus, giving them agency and depth that adds layers of complexity to the familiar narrative."
+    ]
+  },
+  {
+    "id": "shrek-2",
+    "title": "Shrek 2",
+    "subtitle": "Directed by A. Adamson, K. Asbury, & C. Vernon",
+    "image": "images/shrek2.jpg",
+    "rating": 5,
+    "metadata": {
+      "Writers": "William Steig \u2022 Andrew Adamson \u2022 Joe Stillman",
+      "Genre": "Animation \u2022 Adventure \u2022 Comedy",
+      "IMDB": "3.65/5",
+      "Rotten Tomatoes": "4.45/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": "https://letterboxd.com/margurrrite/film/shrek-2/"
+      }
+    ],
+    "reviewHeadline": "Where Happily Ever After Meets Happily Ever Laughter",
+    "reviewBody": [
+      "Shrek 2 is not just a sequel; it's a comedy extravaganza that proves green is the new gold in the world of animated films. This delightful romp through the fairy-tale kingdom takes the irreverence of the original and cranks it up to an enchanting eleven.",
+      "The dynamic duo of Shrek and Donkey, voiced by Mike Myers and Eddie Murphy, returns with even more hilarious banter and antics. The addition of Puss in Boots, expertly voiced by Antonio Banderas, is a stroke of feline genius, stealing scenes and hearts with his swashbuckling charm.",
+      "The humor in Shrek 2 is as layered as an onion, appealing to both kids and grown-ups. From clever pop culture references to tongue-in-cheek jabs at fairy-tale clich\u00e9s, the film keeps the laughs rolling. The inspired use of classic songs in unexpected ways adds a musical twist that's both nostalgic and side-splitting.",
+      "The animation is vibrant and full of whimsy, bringing the fairy-tale world to life with a modern twist. The character design, from the iconic trio to the new faces, is a perfect blend of endearing and hilariously exaggerated. The story, a charming mix of romance and family dynamics, keeps the pace lively and the audience engaged. It's a fairy tale with a Shrek-sized twist that subverts expectations while delivering heartwarming moments and belly laughs."
+    ]
+  },
+  {
+    "id": "the-walking-dead",
+    "title": "The Walking Dead",
+    "subtitle": "by AMC",
+    "image": "images/walking-dead.jpg",
+    "rating": 5,
+    "metadata": {
+      "Creator": "Frank Darabont",
+      "Genre": "Drama \u2022 Horror \u2022 Thriller",
+      "IMDB": "4.05/5",
+      "Rotten Tomatoes": "3.95/5"
+    },
+    "externalLinks": [],
+    "reviewHeadline": "A Genre-Defining Epic with a Bittersweet Conclusion",
+    "reviewBody": [
+      "The Walking Dead , for the majority of its run, has been a gripping journey into the post-apocalyptic world of walkers, human survival, and the fragility of societal norms. Through the initial seasons, it was a masterclass in suspense, character development, and the exploration of humanity's darker facets in the face of a relentless zombie apocalypse.",
+      "The ensemble cast, led by Andrew Lincoln's iconic portrayal of Rick Grimes, brought depth and authenticity to a diverse array of characters. The show's ability to navigate complex relationships and moral dilemmas against the backdrop of a decaying world set it apart in the crowded landscape of television.",
+      "While the show retained its ability to deliver intense moments and shocking character deaths, the final seasons left many fans, myself included, feeling a sense of disappointment. The storyline became increasingly fragmented, and certain character arcs seemed to lose the depth and complexity that initially made The Walking Dead a standout series."
+    ]
+  },
+  {
+    "id": "john-wick-4",
+    "title": "John Wick: Chapter 4",
+    "subtitle": "Directed by Chad Stahelski",
+    "image": "images/john-wick-4.png",
+    "rating": 3,
+    "metadata": {
+      "Writers": "Shay Hatten \u2022 Michael Finch \u2022 Derek Kolstad",
+      "Genre": "Action \u2022 Crime \u2022 Thriller",
+      "IMDB": "3.85/5",
+      "Rotten Tomatoes": "4.7/5"
+    },
+    "externalLinks": [
+      {
+        "label": "LETTERBOXD REVIEW",
+        "url": "https://letterboxd.com/margurrrite/film/john-wick-chapter-4/"
+      }
+    ],
+    "reviewHeadline": "A Bullet-Riddled Symphony of Action and One-Liners",
+    "reviewBody": [
+      "John Wick: Chapter 4 delivers a relentless, action-packed thrill ride that keeps you on the edge of your seat. Director Chad Stahelski masterfully orchestrates a symphony of violence, blending gunplay and hand-to-hand combat in stunning set pieces that will leave you breathless.",
+      "Keanu Reeves shines as the stoic assassin, John Wick. With minimal dialogue, he lets his actions do the talking, dispatching enemies with lethal efficiency. Reeves's deadpan delivery of one-liners and his trademark \"yeah\" provide moments of subtle humor amidst the chaos.",
+      "While the film prioritizes action over character development, the supporting cast, including Ian McShane, Laurence Fishburne, and Asia Kate Dillon, adds depth to the story. The chemistry among the actors, combined with captivating cinematography and an adrenaline-pumping soundtrack, elevates the overall experience.",
+      "In conclusion, John Wick: Chapter 4 is a triumph of action cinema. While the lack of extensive dialogue with John Wick himself may hinder a deeper connection, the film's nonstop thrills and clever humor more than make up for it. Brace yourself for an exhilarating journey into John Wick's world, where bullets fly, bones break, and \"yeah\" becomes an unforgettable catchphrase."
+    ]
+  },
+  {
+    "id": "my-year-of-rest-and-relaxation",
+    "title": "My Year of Rest and Relaxation",
+    "subtitle": "Written by Ottessa Moshfegh",
+    "image": "images/myorar.jpg",
+    "rating": 5,
+    "metadata": {
+      "Genre": "Fiction \u2022 Contemporary \u2022 Mental Health",
+      "Goodreads": "3.66/5",
+      "Barnes & Noble": "3.35/5"
+    },
+    "externalLinks": [
+      {
+        "label": "GOODREADS REVIEW",
+        "url": "https://www.goodreads.com/review/show/5376281121"
+      }
+    ],
+    "reviewHeadline": "A Literary Masterpiece of Artistic Prose and Immersive World-Building",
+    "reviewBody": [
+      "Otessa Moshfegh's \"My Year of Rest and Relaxation\" is a literary tour de force that captivates with its unique blend of artistic writing and immersive world-building. Seamlessly weaving a narrative that delves into the depths of a troubled psyche, Moshfegh creates a mesmerizing exploration of self-discovery and existential longing.",
+      "The book's artistic writing style is nothing short of breathtaking. Moshfegh's prose is lyrical and evocative, painting vivid landscapes of the mind and the external world. Her ability to convey complex emotions and intricacies of the human condition is truly remarkable. The sentences flow effortlessly, drawing readers into the protagonist's turbulent journey of self-imposed isolation and introspection.",
+      "One of the book's standout strengths lies in its meticulous attention to detail when cataloguing the environment. Moshfegh constructs a richly layered world, from the minutiae of everyday life to the larger societal backdrop. Through the protagonist's lens, we observe the world as if cataloguing artifacts in a museum, allowing us to intimately experience her detached perspective. This world-building technique immerses readers in the protagonist's disenchanted reality, creating a profound sense of atmosphere and place.",
+      "\"My Year of Rest and Relaxation\" is a literary masterpiece that pushes the boundaries of storytelling. Otessa Moshfegh's artistic writing style, combined with her meticulous world-building and profound exploration of the human psyche, creates a reading experience that is both intellectually stimulating and emotionally resonant. It is a book that lingers in the mind long after the final page is turned, leaving readers with a renewed appreciation for the power of literature to illuminate the human experience."
+    ]
+  }
+]
